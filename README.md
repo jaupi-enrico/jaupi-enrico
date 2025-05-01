@@ -1,16 +1,16 @@
-## Hi there 👋
+# Ciao, sono Enrico!
 
-<!--
-**jaupi-enrico/jaupi-enrico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno studente appassionato di Informatica, competizioni di coding e sviluppo software.  
+Attualmente studio all'ITIS Castelli di Brescia, settore Informatica, e partecipo a gare di informatica (OII) e matematica.
 
-Here are some ideas to get you started:
+## Skills principali
+- Linguaggi: C++, Python, HTML, CSS, Assembly
+- Tecnologie: VBA, Git, GitHub
+- Competizioni: OII (Top 250 in Italia), Gare di Matematica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Progetti
+- Sistema gestione turni VBA [Repo](https://github.com/tuo-utente/turni-vba-azienda)
+- Portfolio Web Personale [Repo](https://github.com/tuo-utente/portfolio-web)
+
+## Obiettivo
+Entrare in una Big Tech (Google Zurigo) e successivamente proseguire la mia carriera tecnologica a livello internazionale.
