@@ -9,8 +9,7 @@ Attualmente studio all'ITIS Castelli di Brescia, settore Informatica, e partecip
 - Competizioni: OII (Top 250 in Italia), Gare di Matematica
 
 ## Progetti
-- Sistema gestione turni VBA [Repo](https://github.com/tuo-utente/turni-vba-azienda)
-- Portfolio Web Personale [Repo](https://github.com/tuo-utente/portfolio-web)
-
+- Sistema gestione turni VBA [Repo](https://github.com/jaupi-enrico/shift-manager-excel-vba)
+- Portfolio Web Personale [Repo](https://github.com/jaupi-enrico/portfolio)
 ## Obiettivo
 Entrare in una Big Tech (Google Zurigo) e successivamente proseguire la mia carriera tecnologica a livello internazionale.
