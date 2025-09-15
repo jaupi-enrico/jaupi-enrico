@@ -4,7 +4,7 @@ Sono uno studente appassionato di Informatica, competizioni di coding e sviluppo
 Attualmente studio all'ITIS Castelli di Brescia, settore Informatica, e partecipo a gare di informatica (OII) e matematica.
 
 ## Skills principali
-- Linguaggi: C++, Python, HTML, CSS, Assembly, VBA
+- Linguaggi: C++, Python, HTML, CSS, Assembly, VBA, JS, NodeJs, Express, Bootstrap
 - Tecnologie: Git, GitHub
 - Competizioni: OII (Top 250 in Italia), Gare di Matematica
 
