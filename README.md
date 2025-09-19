@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student passionate about computer science, coding competitions, and software development.<br>I currently study computer science at the ITIS Castelli in Brescia, and I participate in computer science (OII) and mathematics competitions.<br><br>Main Skills<br>Languages: C++, Python, HTML, CSS, Assembly, VBA, JS, NodeJs, Express, Bootstrap<br>Technologies: Git, GitHub<br>Competitions: OII (Top 250 in Italy), Math Competitions<br>Projects<br>VBA Repo Shift Management System<br>Final exam in HTML and CSS Repo<br>Goal<br>Join a Big Tech company (Google Zurich) and then pursue my technology career internationally.
+I'm a student passionate about computer science, coding competitions, and software development.<br>I currently study computer science at the ITIS Castelli in Brescia, and I participate in computer science (OII) and mathematics competitions.<br><br>**Main Skills**<br>Languages: C++, Python, HTML, CSS, Assembly, VBA, JS, NodeJs, Express, Bootstrap<br>Technologies: Git, GitHub<br>Competitions: OII (Top 250 in Italy), Math Competitions<br>**Projects**<br>VBA Repo Shift Management System<br>Final exam in HTML and CSS Repo<br>**Goal**<br>Join a Big Tech company (Google Zurich) and then pursue my technology career internationally.
 
 
 ## 🌐 Socials:
