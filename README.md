@@ -1,9 +1,56 @@
-# About Me:
-I'm a student passionate about computer science, coding competitions, and software development.<br>I currently study computer science at the ITIS Castelli in Brescia, and I participate in computer science (OII) and mathematics competitions.<br><br>**Main Skills**<br>Languages: C++, Java, JavaFX, Python, Flask, VBA, HTML, CSS, JS, NodeJs, Express, Bootstrap, Assembly<br>Technologies: Git, GitHub<br>Competitions: OII (Top 100 in Italy), Math Competitions<br>**Projects**<br>VBA Repo Shift Management System<br>Final exam in HTML and CSS Repo<br>**Goal**<br>Join Google Japan.
+# Enrico Jaupi
+
+Computer Science student at ITIS Castelli, Brescia — graduating 2027.
+I build backend systems, automate things that shouldn't need doing twice, and occasionally simulate WWII cryptography machines.
 
 
-## Contacts:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.enricojaupi@gmail.com) 
+## Work
 
-# Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+**Backend Lead — LA SANTI Gomme srl** (Mar 2026)
+Designed and built the entire company backend from scratch. RESTful APIs, server-side logic with Node.js and Express, production deployment on Vercel with strict CSP and SEO configuration.
+
+**Solo Software Developer (Freelance) — Italfood srl** (Aug 2024 – Aug 2025)
+Sole technical contact for an internal workforce scheduling system built in VBA/Excel. Collected requirements directly from the client and iterated to eliminate recurring operational errors.
+
+
+## Projects
+
+**Enigma M3 Simulator** — Java / JavaFX (Apr 2026)
+Historically accurate desktop simulation of the M3 Enigma cipher machine. Full rotor wiring, notch logic, double-stepping anomaly, ring settings, and a complete JavaFX GUI including drag-and-drop rotor reordering and plugboard interaction.
+
+**Arduino Temperature Monitor and Dashboard** — C++ / Python (Dec 2025)
+Dual DHT11 sensor system with LCD, IR remote, and buzzer. Python dashboard built with DearPyGui: real-time charts, rolling statistics, trend detection, and serial CSV logging.
+
+**Smart Home Lighting Simulator** — Java / JavaFX (Dec 2025)
+Desktop GUI application simulating an intelligent home lighting control system.
+
+
+## Stack
+
+```
+Languages     C/C++  Java  Python  JavaScript  SQL  VBA  Assembly
+Backend       Node.js  Express  Flask  REST  Socket.IO
+Tools         Docker  Git  GitHub  Vercel
+Other         JavaFX  Bootstrap  Packet Tracer
+```
+
+
+## Education
+
+**ITIS Castelli** — Diploma in Computer Science (Sep 2022 – Jun 2027)
+GPA: 8.36/10
+Core subjects: OOP, Data Structures and Algorithms, Databases, Operating Systems, Computer Networks, Discrete Mathematics.
+
+**CS50x** — Harvard University Certificate of Completion
+
+
+## Competitions
+
+- OII — Olimpiadi Italiane di Informatica: qualified and competed in the individual territorial round
+- OIS — Olimpiadi Italiane di Informatica a Squadre: team participant
+- Disfida Matematica and Olimpiadi Nazionali di Matematica: selected for the school mathematics team
+
+
+## Contact
+
+dev.enricojaupi@gmail.com
