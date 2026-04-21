@@ -1,7 +1,7 @@
 # Enrico Jaupi
 
 Computer Science student at ITIS Castelli, Brescia — graduating 2027.
-I build backend systems, automate things that shouldn't need doing twice, and occasionally simulate WWII cryptography machines.
+I build backend systems and automate things that shouldn't need doing twice.
 
 
 ## Work
