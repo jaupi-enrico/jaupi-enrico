@@ -1,6 +1,6 @@
 # Enrico Jaupi
 
-Computer Science student at ITIS Castelli, Brescia — graduating 2027.
+Computer Science student at ITIS Castelli, Brescia, graduating 2027.
 I build backend systems and automate things that shouldn't need doing twice.
 
 
@@ -46,7 +46,7 @@ Core subjects: OOP, Data Structures and Algorithms, Databases, Operating Systems
 
 ## Competitions
 
-- OII — Olimpiadi Italiane di Informatica: qualified and competed in the individual territorial round
+- OII — Olimpiadi Italiane di Informatica: qualified and competed in the individual national round
 - OIS — Olimpiadi Italiane di Informatica a Squadre: team participant
 - Disfida Matematica and Olimpiadi Nazionali di Matematica: selected for the school mathematics team
 
