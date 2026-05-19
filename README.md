@@ -15,15 +15,9 @@ Sole technical contact for an internal workforce scheduling system built in VBA/
 
 ## Projects
 
-**Enigma M3 Simulator** - Java / JavaFX (Apr 2026)
-Historically accurate desktop simulation of the M3 Enigma cipher machine. Full rotor wiring, notch logic, double-stepping anomaly, ring settings, and a complete JavaFX GUI including drag-and-drop rotor reordering and plugboard interaction.
-
-**Arduino Temperature Monitor and Dashboard** - C++ / Python (Dec 2025)
-Dual DHT11 sensor system with LCD, IR remote, and buzzer. Python dashboard built with DearPyGui: real-time charts, rolling statistics, trend detection, and serial CSV logging.
-
-**Smart Home Lighting Simulator** - Java / JavaFX (Dec 2025)
-Desktop GUI application simulating an intelligent home lighting control system.
-
+**Enigma M3 Simulator** - Java / JavaFX (Apr 2026)  
+**Arduino Temperature Monitor and Dashboard** - C++ / Python (Dec 2025)  
+**Smart Home Lighting Simulator** - Java / JavaFX (Dec 2025)  
 
 ## Stack
 
