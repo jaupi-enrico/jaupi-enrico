@@ -24,10 +24,11 @@ Self-hosted streaming platform built from scratch, featuring multi-account authe
 ## Stack
 
 ```
-Languages     C/C++  Java  Python  JavaScript  SQL  VBA  Assembly
-Backend       Node.js  Express  Flask  REST  Socket.IO
-Tools         Docker  Git  GitHub  Vercel
-Other         JavaFX  Bootstrap  Packet Tracer
+Languages     C/C++ Java Python TypeScript JavaScript SQL VBA Assembly
+Backend       Node.js Express Flask REST Socket.IO
+Databases     PostgreSQL Redis
+Tools         Docker Git GitHub Vercel
+Other         JavaFX Bootstrap Packet Tracer
 ```
 
 
