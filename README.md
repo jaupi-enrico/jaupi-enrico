@@ -15,6 +15,8 @@ Sole technical contact for an internal workforce scheduling system built in VBA/
 
 ## Projects
 
+**Streamio** - TypeScript / Node.js / Express / PostgreSQL / Redis / Docker (2024 - 2026)
+Self-hosted streaming platform built from scratch, featuring multi-account authentication, OAuth, adaptive HLS transcoding, watch history, watch parties, Chromecast, and multi-server synchronization.
 **Enigma M3 Simulator** - Java / JavaFX (Apr 2026)  
 **Arduino Temperature Monitor and Dashboard** - C++ / Python (Dec 2025)  
 **Smart Home Lighting Simulator** - Java / JavaFX (Dec 2025)  
